@@ -1,5 +1,7 @@
 # thRow Stuff At The Rug[g] - Official Rules #
 
+![Rug[g] image](rugg-360w.jpg "Example Rug[g]")
+
 ## System Requirements ##
 
 1. A Rug (with an extra g, if possible) with spaces (preferably squares) of various colors.
